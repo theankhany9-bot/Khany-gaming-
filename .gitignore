@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+beda_store_data/
+*.bak*
+run.sh
+.env
