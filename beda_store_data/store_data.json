@@ -1,0 +1,65 @@
+{
+  "admins": [
+    6214336913
+  ],
+  "admin_username": "netonligaming125",
+  "button_labels": {
+    "buy_now": "🛒 Buy Now / ទិញឥឡូវនេះ",
+    "ff_acc": "🎮 លក់អាខោន Mobile Free Fire",
+    "diamonds": "💎 Top up / ពេជ្រ ហ្គេម",
+    "set_qr": "🖼 កំណត់ QR បង់ប្រាក់"
+  },
+  "premium_emojis": {
+    "buy_now": "",
+    "ff_acc": "",
+    "diamonds": "",
+    "menu": ""
+  },
+  "diamond_topups": [
+    {
+      "id": "dm_ff_100",
+      "game": "Free Fire",
+      "name": "FF 100 Diamonds",
+      "price": 1.15
+    },
+    {
+      "id": "dm_ff_310",
+      "game": "Free Fire",
+      "name": "FF 310 Diamonds",
+      "price": 3.2
+    },
+    {
+      "id": "dm_ml_86",
+      "game": "MLBB",
+      "name": "MLBB 86 Diamonds",
+      "price": 1.35
+    },
+    {
+      "id": "dm_ml_172",
+      "game": "MLBB",
+      "name": "MLBB 172 Diamonds",
+      "price": 2.65
+    }
+  ],
+  "ff_accounts": [
+    {
+      "id": "ff_acc_01",
+      "name": "FF Mobile Acc #01 (Evo Gun / Vault)",
+      "price": 14.0,
+      "photo_file_id": "",
+      "info_text": "អាខោនស្អាត មាន Evo Gun និង Vault ល្អ",
+      "password": "ChangeMe123!"
+    },
+    {
+      "id": "ff_acc_02",
+      "name": "FF Mobile Acc #02 (Booyah / Bundle)",
+      "price": 22.0,
+      "photo_file_id": "",
+      "info_text": "មាន Bundle កម្រ និង Booyah Pass ច្រើន",
+      "password": "ChangeMe456!"
+    }
+  ],
+  "orders": {},
+  "next_order_num": 3001,
+  "next_item_num": 101
+}
